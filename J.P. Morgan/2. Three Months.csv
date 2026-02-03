@@ -1,5 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Rotate Image,100.0,0.7790165261990751,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+EASY,Intersection of 2 Arrays,100.0,0.77,https://leetcode.com/problems/intersection-of-two-arrays/description/,"Array, Math, Design, Randomized"
+EASY,Intersection of 2 Arrays,100.0,0.58,https://leetcode.com/problems/intersection-of-two-arrays-ii/description/,"Array, Math, Design, Randomized"
 MEDIUM,Rearrange Array to Maximize Prefix Score,81.1,0.41547137866485434,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score,"Array, Greedy, Sorting, Prefix Sum"
 EASY,Find Resultant Array After Removing Anagrams,65.0,0.5947293118567407,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams,"Array, Hash Table, String, Sorting"
 EASY,Count Binary Substrings,65.0,0.659166376012681,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
