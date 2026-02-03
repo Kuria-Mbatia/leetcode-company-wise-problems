@@ -1,5 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 EASY,Sort Integers by The Number of 1 Bits,100.0,0.7868399685247711,https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits,"Array, Bit Manipulation, Sorting, Counting"
+MEDIUM,Group Anagrams,100.0,0.7092883082997726,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Intersection of 2 Arrays,100.0,0.77,https://leetcode.com/problems/intersection-of-two-arrays/description/,"Array, Math, Design, Randomized"
+EASY,Intersection of 2 Arrays,100.0,0.58,https://leetcode.com/problems/intersection-of-two-arrays-ii/description/,"Array, Math, Design, Randomized"
 HARD,Reaching Points,96.5,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
 MEDIUM,Least Number of Unique Integers after K Removals,93.1,0.6341766250570863,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals,"Array, Hash Table, Greedy, Sorting, Counting"
 MEDIUM,Minimum Suffix Flips,90.8,0.7348245888613324,https://leetcode.com/problems/minimum-suffix-flips,"String, Greedy"
