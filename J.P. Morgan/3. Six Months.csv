@@ -1,5 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Group Anagrams,100.0,0.7092883082997726,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Intersection of 2 Arrays,100.0,0.77,https://leetcode.com/problems/intersection-of-two-arrays/description/,"Array, Math, Design, Randomized"
+EASY,Intersection of 2 Arrays,100.0,0.58,https://leetcode.com/problems/intersection-of-two-arrays-ii/description/,"Array, Math, Design, Randomized"
 MEDIUM,Rotate Image,97.8,0.7790165261990751,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
 EASY,Maximum Product of Two Elements in an Array,81.8,0.8322491861778356,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array,"Array, Sorting, Heap (Priority Queue)"
 MEDIUM,Rearrange Array to Maximize Prefix Score,76.6,0.41547137866485434,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score,"Array, Greedy, Sorting, Prefix Sum"
